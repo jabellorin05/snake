@@ -1,0 +1,3 @@
+﻿  SnakeConsole.cpp
+C:\Users\jose\Desktop\SnakeConsole\SnakeConsole.cpp(307,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakeConsole.vcxproj -> C:\Users\jose\Desktop\SnakeConsole\x64\Debug\SnakeConsole.exe
